@@ -1,0 +1,11 @@
+<html>
+<body>
+<script>
+var resul=0;
+var a = prompt('Введите значение а');
+var n = prompt('Введите значение n');
+result = Math.pow( a, n );
+alert( result );
+</script>
+</body>
+</html>
